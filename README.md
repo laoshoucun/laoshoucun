@@ -1,6 +1,6 @@
 # 老手村 · AI 智能体中文文档仓库群
 
-**老手村（www.laoshoucun.com）** 是一个专注 AI 办公智能体 / AI 工具的中文教程站。本主页是它在 GitHub 的文档仓库索引——9 个主题仓库持续镜像官网文章，全部开源、可离线阅读、可克隆。
+**老手村（www.laoshoucun.com）** 是一个专注 AI 办公智能体 / AI 工具的中文教程站。本主页是它在 GitHub 的文档仓库索引——10 个主题仓库持续镜像官网文章，全部开源、可离线阅读、可克隆。
 
 ## 官网
 
@@ -19,6 +19,7 @@
 | [claude-zh-guide](claude-zh-guide) | Claude Code 中文指南（Claude 中文站） | 15 篇 |
 | [codex-zh-guide](codex-zh-guide) | OpenAI Codex 中文指南（Codex 中文站） | 15 篇 |
 | [gemini-zh-guide](gemini-zh-guide) | Google Gemini CLI 中文指南（Gemini 中文站） | 15 篇 |
+| [codex-hanhua-zh](codex-hanhua-zh) | Codex / ChatGPT 桌面端汉化包下载与安装（Codex 中文站汉化专题） | 4 篇 |
 
 ## 说明
 
