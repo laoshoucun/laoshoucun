@@ -1,6 +1,6 @@
 # 老手村 · AI 智能体中文文档仓库群
 
-**老手村（www.laoshoucun.com）** 是一个专注 AI 办公智能体 / AI 工具的中文教程站。本主页是它在 GitHub 的文档仓库索引——10 个主题仓库持续镜像官网文章，全部开源、可离线阅读、可克隆。
+**老手村（www.laoshoucun.com）** 是一个专注 AI 办公智能体 / AI 工具的中文教程站。本主页是它在 GitHub 的文档仓库索引——9 个主题仓库持续镜像官网文章，全部开源、可离线阅读、可克隆。
 
 ## 官网
 
@@ -16,13 +16,12 @@
 | [doubao-office-zh](doubao-office-zh) | 字节豆包办公（TraeWork）中文教程 | 8 篇 |
 | [grok-zh-guide](grok-zh-guide) | xAI Grok 中文资讯与指南 | 6 篇 |
 | [chatgpt-zh-guide](chatgpt-zh-guide) | OpenAI ChatGPT 中文指南 | 12 篇 |
-| [claude-zh-guide](claude-zh-guide) | Claude Code 中文指南（Claude 中文站） | 15 篇 |
 | [codex-zh-guide](codex-zh-guide) | OpenAI Codex 中文指南（Codex 中文站） | 15 篇 |
-| [gemini-zh-guide](gemini-zh-guide) | Google Gemini CLI 中文指南（Gemini 中文站） | 15 篇 |
 | [codex-hanhua-zh](codex-hanhua-zh) | Codex / ChatGPT 桌面端汉化包下载与安装（Codex 中文站汉化专题） | 4 篇 |
+| [cursor-zh-guide](cursor-zh-guide) | Cursor 账号批发与使用指南（速刷号 / 成品号 / 月卡 / 代订阅 / 各档位） | 20 篇 |
 
 ## 说明
 
 - 每篇文档顶部与文末均保留官网原文链接，可溯源阅读。
 - 仓库内容定期同步官网，欢迎 Star / Watch 跟踪更新。
-- 教程站点：老手村 · [Codex中文站](https://www.sz003.com) · [Gemini中文站](https://www.hxsf.com.cn) · [Claude中文站](https://www.b2cc.com.cn)
+- 教程站点：老手村 · [Codex中文站](https://www.sz003.com)
